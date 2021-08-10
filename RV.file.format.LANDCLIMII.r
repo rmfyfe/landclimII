@@ -178,6 +178,7 @@ for (i in site.list){
 ## useful to keep until in case checks are needed!!            ##
 #################################################################
 
+setwd(wd)
 unlink(substr(outfolder1, 1, nchar(outfolder1)-1), recursive = TRUE)
 unlink(substr(outfolder2, 1, nchar(outfolder2)-1), recursive = TRUE)
 
