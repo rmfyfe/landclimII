@@ -1,0 +1,9 @@
+depth,age.cal.BP,Alnus  ,Betula  ,Corylus  ,Pinus  ,Quercus  ,Ulmus  ,Fagus  ,Fraxinus  ,Tilia  ,Salix  ,Sorbus  ,Hedera  ,Juniperus  ,Ericaceae  ,Empetrum  ,Calluna  ,Poaceae  ,Cyperaceae  ,Centaurea nigra ,Lactuceae  ,Plantago lanceolata ,Ranunculus acris type,Potentilla type ,Artemisia  ,Cardueae  ,Rosaceae undiff. ,Urtica type ,Succisa pratensis ,Asteraceae subfam. Asteroideae,Caryophyllaceae  ,Sum
+16,1320,2,1,4,1,1,0,0,0,0,0,0,0,0,2,0,266,17,2,1,1,1,1,1,0,0,0,0,0,0,0,301
+32,2777.4,0,0,11,4,22,1,0,0,0,0,0,0,0,3,0,177,71,7,0,1,0,0,0,1,1,1,0,0,0,0,300
+48,4058,10,4,47,3,38,2,1,1,1,0,0,1,0,6,0,162,2,39,0,0,0,0,1,0,0,0,0,0,0,0,318
+64,4503.5,5,3,25,8,45,2,4,0,0,0,0,1,0,5,0,112,16,74,0,0,0,0,0,0,0,0,0,0,0,0,300
+80,4926.5,20,13,90,4,78,1,0,0,0,0,2,0,2,3,0,33,13,39,0,0,0,0,1,0,0,0,1,0,0,0,300
+96,5349.5,5,4,17,3,46,1,0,0,1,1,1,0,0,0,0,215,3,1,0,0,0,0,0,0,0,0,0,3,0,0,301
+112,5935.6,2,5,38,8,12,1,0,0,0,0,0,0,0,3,1,255,10,1,0,3,0,0,0,0,1,0,0,0,0,0,340
+124,6545.4,3,14,91,42,3,4,0,0,0,1,1,0,0,2,0,144,6,1,0,0,0,0,0,0,0,0,0,8,1,1,322
