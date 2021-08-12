@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 LANDCLIMII project r-scripts  
 code used for preparation and analysis in LANDCLIMII project  
   
